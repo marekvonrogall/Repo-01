@@ -4,7 +4,7 @@
 
 <h1>Link</h1>
 
-[Für Google Link hier klicken.](https://google.com)
+Für Google-Link [hier](https://google.com) klicken.
 
 oder:
 
